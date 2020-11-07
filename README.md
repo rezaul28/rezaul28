@@ -7,7 +7,8 @@ CS Undergrad student | Web Deb | Android Dev | Software Dev Enthusiast | Machine
 
 ## Say hi 
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/rezaul-karim-61371017a)
-[![Facebook](https://img.shields.io/badge/Facebook-gray)](https://www.facebook.com/Rezaul28)
+[![Facebook](https://img.shields.io/badge/Facebook-green)](https://www.facebook.com/Rezaul28)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:rezaul.csedu@gmail.com)
 
 ## Languages 
 - C
