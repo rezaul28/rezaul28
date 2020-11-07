@@ -9,7 +9,7 @@ CS Undergrad student | Web Deb | Android Dev | Software Dev Enthusiast | Machine
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/rezaul-karim-61371017a)
 [![Facebook](https://img.shields.io/badge/Facebook-brightgreen)](https://www.facebook.com/Rezaul28)
 
-## Language 
+## Languages 
 - C
 - C++
 - Java
@@ -19,7 +19,7 @@ CS Undergrad student | Web Deb | Android Dev | Software Dev Enthusiast | Machine
 - CSS
 - Octave
 
-## Database Language
+## Database Languages
 - SQL
 - NoSQL
 
