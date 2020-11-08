@@ -28,7 +28,7 @@ CS Undergrad student | Web Deb | Android Dev | Software Dev Enthusiast | Machine
 <img align="left" alt="Android Studio" width="30px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" />
 <img align="left" alt="Nodejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
 <img align="left" alt="React" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
-<img align="left" alt="Express" width="30px" src="https://expressjs.com/images/express-facebook-share.png" />
+<img align="left" alt="Express" width="30px" src="https://e7.pngegg.com/pngimages/545/451/png-clipart-node-js-express-js-javascript-solution-stack-web-application-others-angle-text.png" />
 <img align="left" alt="REST API" width="30px" src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" />
 <img align="left" alt="GraphQl" width="30px" src="https://miro.medium.com/max/1200/1*oyUZ4k1clyKiaahg0pfixQ.png" />
 <br>
