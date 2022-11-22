@@ -1,5 +1,5 @@
 # Hi! It's Rezaul
-I am currently working with  <a href="https://www.crantech.xyz/">CranTech</a> as a software dev.
+I am currently working with  <a href="https://www.linkedin.com/company/icommunix/mycompany/">CranTech</a> as a software dev.
 
 
 ## About me 
